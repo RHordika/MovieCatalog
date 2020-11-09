@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MovieCatalog</string>
+
+    <string name="movie_year">Year: %1$d</string>
+    <string name="movie_director">Director: %1$s</string>
+    <string name="movie_genere">Genere: %1$s</string>
+
+</resources>
